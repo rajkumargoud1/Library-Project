@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>SEARCH BOOK DETAILS</title>
+<link rel= "stylesheet" href= "project.css"></link>
+<link rel= "icon" href= "notes3.JPG"></link>
+ </head>
+ <body>
+  <form>
+  <h1>SEARCH BOOK DETAILS</h1>
+  <fieldset>
+  <legend>Enter Title for Search</legend>
+  <input id = "f1"></input>
+  </fieldset>
+  <br></br>
+  <center><input type ="submit" value="search" id ="d1"></center>
+  </form>
+ </body>
+</html>

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>UPDATE BOOK DETAILS</title>
+<link rel= "stylesheet" href= "project.css"></link>
+<link rel= "icon" href= "notes3.JPG"></link>
+ </head>
+ <body>
+  <form>
+  <h1>UPDATE BOOK DETAILS</h1>
+  <table id ="t2">
+  <tr>
+  <td>Book Title</td>
+  <td><input placeholder = "Enter Book Title" class ="r1"></input></td>
+  </tr>
+  <tr>
+  <td>Edition</td>
+  <td><input placeholder ="Enter Book Edition " class ="r1"></input>
+  </tr>
+  <tr>
+  <td></td>
+  <td><input type ="Submit" value = "Update Details" id = "d1"></input></td>
+  </tr>
+  </table>
+  </form>
+ </body>
+</html>

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+ <head>  
+  <title>WELCOME TO LIBRARY MANAGEMENT SYSTEM</title>
+<link rel= "stylesheet" href= "project.css"></link>
+<link rel= "icon" href= "notes3.JPG"></link>
+ </head>
+ <body>
+  <form>
+  <h1 id = "h">WELCOME TO LIBRARY MANAGEMENT SYSTEM</h1>
+  <ul style = "list-style-type :square;">
+  <li> Enter 1 To Add Book</li>
+  <li> Enter 2 To Search Book By Title</li>
+  <li> Enter 3 To Update Book</li>
+  <li> Enter 4 To Remove Book</li>
+  </ul>
+  <input list = "book" placeholder = "Enter Your Choice" id ="r2" type ="number" min ="1" max ="4"></input>
+        <input type = "Submit" value ="Go" id = "d2"></input>
+		</form>
+ </body>
+</html>

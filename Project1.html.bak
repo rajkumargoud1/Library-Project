@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <title>Project1</title>
+<link rel= "stylesheet" href= "project.css"></link>
+<link rel= "icon" href= "notes3.JPG"></link>
+<link rel= "icon" href= "LIBRARY.icon"></link>
+ </head>
+ <body>
+ <form>
+  <h1> ADD BOOK DETAILS </h1>
+<table id ="t1">
+	   <tr>
+	   <td>BOOK TITLE</td>
+	   <td><input placeholder ="Enter the title" class = "r1"></input></td>
+	   </tr>
+	   <tr>
+       <td>BOOK AUTHOR</td>
+	   <td><input placeholder = "Enter Book Author" class = "r1"></input></td>
+	   </tr>
+       <tr>
+	   <td>EDITION</td>
+	   <td><input placeholder = "Enter Book Edition" class ="r1"></input></td>
+	   </tr>
+	    <tr>
+	   <td>BOOK PRICE</td>
+	   <td><input placeholder = "Enter Book price" class ="r1"></input></td>
+	   </tr>
+	   <tr>
+       <td>BOOK TYPE</td>
+	   <td><input list = "book" placeholder = "-select-" class= "r1"></input>
+	   <datalist id = "book">
+	   <option>NOWELS</option>
+	   <option>RESONING</option>
+	   <option>SPORTS</option>
+	   <option>INDIAN HISTORY</option>
+	   <option>5G TECHNOLOGY</option>
+	   </datalist>
+	   </td>
+	   </tr>
+	   <tr>
+	   <td></td>
+        <td><input type = "submit" id ="d1" value = "ADD DETAILS" id = "d1"></input></td>
+		</tr>
+	   </table>
+  </form>
+ </body>
+</html>

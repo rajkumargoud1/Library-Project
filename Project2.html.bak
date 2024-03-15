@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+ <head>
+<title>Project2</title>
+<link rel= "stylesheet" href= "project.css"></link>
+<link rel= "icon" href= "notes3.css"></link>
+ </head>
+ <body>
+ <form>
+  <h1> REMOVE BOOK DETAILS </h1>
+<table id ="t2">
+  	   <tr>
+	   <td><label>BOOK TITLE</label></td>
+	   <td><input class = "r1"></input></td>
+	   </tr>
+	   <tr>
+	   <td></td>
+<td><input type = "submit" value ="REMOVE" id ="d1"></input></td>
+</tr>
+</table>
+	   </form>
+ </body>
+</html>

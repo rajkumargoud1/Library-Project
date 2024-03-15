@@ -1,0 +1,17 @@
+#bgi
+{
+background-image:url('notes2.JPG');
+background-repeat:no-repeat;
+background-size:100% 800px;
+}
+h1
+{
+text-align:center;
+text-shadow:5px 5px 10px yellow;
+color:blue;
+font-size:75px;
+text-decoration:underline;
+text-decoration-color:red;
+text-decoration-style:underline;
+text-decoration-thickness:10px;
+}
